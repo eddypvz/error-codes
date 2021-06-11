@@ -1,2 +1,2 @@
-# error-codes
-Generador de códigos de error random
+# Error Codes
+Permite generar códigos de error de forma aleatoria, especificando el prefijo y tamaño del string.
